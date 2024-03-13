@@ -1,5 +1,8 @@
 h1{
     text-align: center;
-    color: rgb(99, 216, 31);
+    color: rgb(241, 241, 241);
     font-size: 50px;
+}
+.cabecalho{
+    background-color: #0B0B0D;
 }
