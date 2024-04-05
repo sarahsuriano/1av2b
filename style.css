@@ -10,7 +10,7 @@ padding: 0;
     display: flex;
 }
 
-#estrelinha{
+.estrelinha{
     right:30% ;
    width: 5px;
 }
